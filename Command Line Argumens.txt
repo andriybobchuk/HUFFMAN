@@ -1,0 +1,13 @@
+------------ TEXT FILE ------------------------------
+
+-i Sonets.txt -o Sonets_Compressed.bin -m c -d Dictionary.bin
+-i Sonets_Compressed.bin -o Sonets_Decompressed.txt -m d -d Dictionary.bin
+
+
+
+--------- JPG FILE --------------------
+
+-i Photo.jpg -o Photo_Compressed.bin -m c -d PhotoDictionary.bin
+-i Photo_Compressed.bin -o Photo_Decompressed.jpg -m d -d jpgDictionary.bin
+
+
