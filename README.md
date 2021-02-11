@@ -7,4 +7,4 @@ Run in command line with switches:
 - '-m' to specify the mode: c – compress, d – decompress
 - '-d' to specify the dictionary file (created in compression, used in decompression)
 
-Detailed documentation is provided in the file DOCUMENTATION.PDF
+Detailed guide is provided in the file DOCUMENTATION.PDF
